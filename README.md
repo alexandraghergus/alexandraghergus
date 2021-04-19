@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alexandra Ghergus</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandraghergus&label=Profile%20views&color=ff80ff&style=flat" alt="alexandraghergus" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
